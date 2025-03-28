@@ -8,6 +8,7 @@ ITMO CSE Student
 
 * 🌍  I'm based in Saint Petersburg
 * ✉️  You can contact me at [dankosaveliy.m@gmail.com](mailto:dankosaveliy.m@gmail.com)
+* Website: https://savadanko.fun
 
 ### Skills
 
